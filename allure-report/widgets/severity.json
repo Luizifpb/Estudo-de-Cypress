@@ -1,0 +1,51 @@
+[ {
+  "uid" : "970f79829370221b",
+  "name" : "devem poder realizar um cadastro",
+  "time" : {
+    "start" : 1635518204290,
+    "stop" : 1635518207178,
+    "duration" : 2888
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a978da65bc1db715",
+  "name" : "ongs devem poder criar novos casos",
+  "time" : {
+    "start" : 1635518210421,
+    "stop" : 1635518212502,
+    "duration" : 2081
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4af263d3eaa4de7c",
+  "name" : "devem poder realizar um login no sistema",
+  "time" : {
+    "start" : 1635518207185,
+    "stop" : 1635518207940,
+    "duration" : 755
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "70a052240bd97904",
+  "name" : "devem poder fazer logout",
+  "time" : {
+    "start" : 1635518207945,
+    "stop" : 1635518210415,
+    "duration" : 2470
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d751a0e3d6040a2e",
+  "name" : "ongs devem poder excluir um novo caso",
+  "time" : {
+    "start" : 1635518212508,
+    "stop" : 1635518213870,
+    "duration" : 1362
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

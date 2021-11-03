@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Oct 29 11:36:52 BRT 2021","Fri Oct 29 11:36:53 BRT 2021","1362","","ONG","","","","ongs devem poder excluir um novo caso",""
+"passed","Fri Oct 29 11:36:47 BRT 2021","Fri Oct 29 11:36:47 BRT 2021","755","","ONG","","","","devem poder realizar um login no sistema",""
+"passed","Fri Oct 29 11:36:50 BRT 2021","Fri Oct 29 11:36:52 BRT 2021","2081","","ONG","","","","ongs devem poder criar novos casos",""
+"passed","Fri Oct 29 11:36:47 BRT 2021","Fri Oct 29 11:36:50 BRT 2021","2470","","ONG","","","","devem poder fazer logout",""
+"passed","Fri Oct 29 11:36:44 BRT 2021","Fri Oct 29 11:36:47 BRT 2021","2888","","ONG","","","","devem poder realizar um cadastro",""

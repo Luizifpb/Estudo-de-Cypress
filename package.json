@@ -1,0 +1,21 @@
+{
+  "name": "aprendendo-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run --config video=false --env allure=true",
+    "allure:generate": "allure generate allure-results",
+    "allure:open": "allure open allure-report",
+    "allure:clear": "@powershell -Command if(Test-Path allure-results) {Remove-item allure-report, allure-results -Recurse}",
+    "test": "npx npm-run-all allure:clear cy:run allure:generate"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@shelex/cypress-allure-plugin": "^2.19.5",
+    "cypress": "^4.12.1"
+  }
+}
